@@ -8,8 +8,7 @@ alert ("Hola mundo");
  */
  function enviarSaludo(){
 let tuNombre = prompt("dime tu nombre");
-if tuNombre = null;
-alert("arre pues");
+
 alert("hola " + tuNombre + " Como estas??");
 
  }
